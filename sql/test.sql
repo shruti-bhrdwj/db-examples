@@ -1,5 +1,4 @@
-CREATE Table User {
-    id INT,
-    name VARCHAR(24),
-    user_code int
-}
+CREATE TABLE courses (
+    course_id INT,
+    course_name VARCHAR(30)
+);
